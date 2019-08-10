@@ -1,0 +1,10 @@
+<manifest>
+<project path="device/lge/h930" name="engelmohr/android_device_lge_h930" remote="github" revision="cm-16.0-autobuild"/>
+
+<project path="device/lge/joan-common" name="engelmohr/android_device_lge_joan-common" remote="github" revision="cm-16.0-autobuild"/>
+
+<project path="kernel/lge/msm8998" name="engelmohr/android_kernel_lge_msm8998" remote="github" revision="cm-16.0-autobuild"/>
+
+<project path="vendor/lge" name="engelmohr/proprietary_vendor_lge" remote="github" revision="cm-16.0-autobuild"/>
+
+</manifest>
